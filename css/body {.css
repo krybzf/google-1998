@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+header {
+    text-align: center;
+}
+main{
+    display: block;
+    text-align: -webkit-center;
+}
+.center{
+    text-align: center;
+    background-color:#EEEEEE;
+}
+table{
+    width: 90%;
+}
+.left{
+    text-align: center;
+    background-color:#7EE5DA;
+    width:37%;
+        }
+ .middle{
+    text-align: center;
+    width: 19%;
+    background-color: #70CCC2;
+    font-size: small;
+ }     
+ .right{
+    text-align: center;
+    width: 44%;
+    background-color: #62B3AA;
+    font-size: small;
+ }  
